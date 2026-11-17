@@ -1,0 +1,8 @@
+# Jangan unggah data asli pemilih, daftar PIN, atau laporan
+*.xlsx
+*.xls
+*.csv
+!template/Template_Import_Pemilih.xlsx
+
+# Kredensial clasp
+.clasprc.json
